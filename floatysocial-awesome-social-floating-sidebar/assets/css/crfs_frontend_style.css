@@ -1,0 +1,24 @@
+
+/* Social Icons Design  */
+#crfs_social_icons_wrap {
+  position: fixed;
+  top: 50%;
+  right: 0;
+  padding: 0;
+  list-style: none;
+  z-index: 99;
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(0%,-50%);
+}
+#crfs_social_icons_wrap li a {
+    display: block;
+}
+#crfs_social_icons_wrap a {
+  font-size: 24px;
+  background: #1c045e;
+  color: #ffffff;
+  display: block;
+  padding: 1px 10px;
+  margin-bottom: 4px;
+  text-align: center;
+}
